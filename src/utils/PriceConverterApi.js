@@ -1,6 +1,6 @@
 
-//const PRICE_CONVERTER_SERVER = 'http://localhost:3000/product'
-const PRICE_CONVERTER_SERVER = 'https://price-converter-8ji3uitng-andrey-grishkov.vercel.app/product'
+const PRICE_CONVERTER_SERVER = 'http://localhost:3000/product'
+//const PRICE_CONVERTER_SERVER = 'https://price-converter-8ji3uitng-andrey-grishkov.vercel.app/product'
 const HEADERS = {
   'Content-Type': 'application/json',
 };
