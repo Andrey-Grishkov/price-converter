@@ -14,7 +14,6 @@ export const App = () => {
   };
 
   const handleClickPost = () => {
-    console.log('pop')
     const data = {
       "products": [
         {
